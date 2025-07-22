@@ -156,14 +156,14 @@ local themes = {
 		}
 	},
 	Pink = {
-		['Shadow'] = Color3.fromRGB(31, 22, 28),
-		['Background'] = Color3.fromRGB(38, 26, 33),
-		['Page'] = Color3.fromRGB(31, 22, 28),
+		['Shadow'] = Color3.fromRGB(40, 20, 35),
+		['Background'] = Color3.fromRGB(50, 25, 40),
+		['Page'] = Color3.fromRGB(40, 20, 35),
 		['Main'] = Color3.fromRGB(219, 112, 147),
 		['Text & Icon'] = Color3.fromRGB(255, 240, 245),
 		['Function'] = {
 			['Toggle'] = {
-				['Background'] = Color3.fromRGB(38, 26, 33),
+				['Background'] = Color3.fromRGB(50, 25, 40),
 				['True'] = {
 					['Toggle Background'] = Color3.fromRGB(139, 69, 97),
 					['Toggle Value'] = Color3.fromRGB(219, 112, 147),
@@ -177,13 +177,13 @@ local themes = {
 				['Background'] = Color3.fromRGB(38, 26, 33),
 			},
 			['Dropdown'] = {
-				['Background'] = Color3.fromRGB(38, 26, 33),
-				['Value Background'] = Color3.fromRGB(31, 22, 28),
+				['Background'] = Color3.fromRGB(50, 25, 40),
+				['Value Background'] = Color3.fromRGB(40, 20, 35),
 				['Value Stroke'] = Color3.fromRGB(255, 240, 245),
 				['Dropdown Select'] = {
-					['Background'] = Color3.fromRGB(31, 22, 28),
-					['Search'] = Color3.fromRGB(42, 32, 38),
-					['Item Background'] = Color3.fromRGB(52, 39, 45),
+					['Background'] = Color3.fromRGB(40, 20, 35),
+					['Search'] = Color3.fromRGB(55, 30, 45),
+					['Item Background'] = Color3.fromRGB(60, 35, 50),
 				}
 			},
 			['Slider'] = {
